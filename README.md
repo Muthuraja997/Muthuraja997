@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Muthuraja M</h1>
 <h3 align="center">A passionate Machine Learning Engineer</h3>
 
-- 🔭 I’m currently working on **ETL pipelines**
+- 🔭 I’m currently working on **Agent Project**
 
-- 🌱 I’m currently learning **FastApi**
+- 🌱 I’m currently learning **MCP**
 
 - 📫 How to reach me **muthuraja05980@gmal.com**
 
